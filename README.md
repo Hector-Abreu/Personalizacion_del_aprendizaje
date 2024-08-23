@@ -1,4 +1,7 @@
 # Personalización del aprendizaje
+## Video demostración
+Enlace del [video](https://youtu.be/4gAV_l6qSyo) para ver el ejemplo de uso.
+
 ## Rand (RASA)
 Puede descargar el contenido del proyecto a través del siguiente [enlace](https://drive.google.com/file/d/1v6T9ynrRiffLZ3BMolsSk80TOXN_0YsN/view?usp=sharing).
 
