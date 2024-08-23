@@ -1,6 +1,6 @@
 # Personalización del aprendizaje
 ## Rand (RASA)
-Puede descargar el contenido del proyecto a través del siguiente [enlace](https://drive.google.com/file/d/14WaDEPE-g7RLIX-tgo2qqg-vLDIS8YuA/view?usp=sharing).
+Puede descargar el contenido del proyecto a través del siguiente [enlace](https://drive.google.com/file/d/1v6T9ynrRiffLZ3BMolsSk80TOXN_0YsN/view?usp=sharing).
 
 ### Requisitos previos
 Para el poder utilizar el asistente, es necesario tener [Python 3.10.6](https://www.python.org/downloads/release/python-3106/) instalado.
