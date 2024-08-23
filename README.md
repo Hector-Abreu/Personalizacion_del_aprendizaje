@@ -16,17 +16,20 @@ setx OPENAI_API_KEY "Your_KEY"
 ## Configuración del Entorno e instalación
 Después de descargar y descomprimir la carpeta de nuestro asistente, seguiremos los siguientes pasos:
 
-1. Crear una carpeta (RAND en este caso) donde vamos a añadir el contenido de la carpeta descomprimida
-2. Situarnos en nuestra nueva carpeta y pegar el contenido de la carpeta *RASA*
-3. Crear nuestro entorno virtual con el comando:
+1. Situarnos en la carpeta **RAND**
+2. Crear nuestro entorno virtual con el comando:
 ```python
-py -m venv venv
+py -3.10 -m venv venv
+```
+3. Activar nuestro entorno virtual con el comando:
+```
+.\venv\Scripts\activate
 ```
 4. Instalar ***RASA***
 ```python
 pip install rasa
 ```
-5. Instalar *pipreqs* para crear un archivo que lista todas las bibliotecas instaladas en el entorno virtual.
+5. Nos situamos en la carpeta ***RASA*** e instalamos *pipreqs* para crear un archivo que lista todas las bibliotecas instaladas en el entorno virtual.
 ```python
 pip install pipreqs
 ```
@@ -35,6 +38,9 @@ pip install pipreqs
 pip install -r .\requirements.txt
 ```
 ***NOTA:*** Puede ser que no instale todos los módulos o bibliotecas necesarios, como por ejemplo el SpeechRecognition, el cual se instalará aparte.
+ ```python
+pip install SpeechRecognition
+```
 
 ## Puesta en marcha
 > [!IMPORTANT]
